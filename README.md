@@ -31,3 +31,5 @@ Here are some ideas to get you started:
   
   ##
   
+  ![Snake animation](https://github.com/LuanaSantosNascimento/LuanaSantosNascimento/blob/output/github-contribution-grid-snake.svg)
+  
