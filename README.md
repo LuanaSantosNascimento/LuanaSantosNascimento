@@ -1,6 +1,6 @@
-### Heey! Eu sou a Luana ! 👋
-- 🔭 Iniciando a carreira em tecnologia...
-- 🌱 Estudando Spring Cloud...
+### Hello there! I'm Luana! 👋
+- 🔭 I'm starting a career in technology...
+- 🌱 I’m currently learning about Spring Cloud...
 
 ##
 <!--
@@ -17,18 +17,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
   <a href="https://github.com/LuanaSantosNascimento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanaSantosNascimento&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuanaSantosNascimento&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaSantosNascimento&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
- <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<div style="display: inline_block"><br>
+  <img align="right" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+  <img align="right" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="right" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="right" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Rafa-pic" height="130" src="img/hey.gif">
 </div>
   
+  ##
   ##
   
   ![Snake animation](https://github.com/LuanaSantosNascimento/LuanaSantosNascimento/blob/output/github-contribution-grid-snake.svg)
