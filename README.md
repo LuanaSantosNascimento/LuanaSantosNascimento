@@ -1,7 +1,7 @@
 ### Hello there! I'm Luana! 👋
 - 🔭 I'm starting a career in technology...
 - 🌱 I’m currently learning about Spring Cloud...
-
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/luana-nascimento-853240221/)...
 ##
 <!--
 **LuanaSantosNascimento/LuanaSantosNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LuanaSantosNascimento&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaSantosNascimento&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
-  
+
 <div style="display: inline_block"><br>
   <img align="right" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="right" alt="Spring-Boot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
