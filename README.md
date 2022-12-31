@@ -1,49 +1,37 @@
-### Oie, eu sou a Luana! 👋
-- 🔭 Estou iniciando minha carreira na área de tecnologia...
-- 🔭 Atualmente trabalho com Kotlin e Java, utilizando o framework Spring Boot...
-- 📚 Também estou estudando sobre algoritimos, Docker, Kubernetes e animações CSS...
-- 📫 Você pode me contatar através do [LinkedIn](https://www.linkedin.com/in/luana-nascimento-853240221/)...
-- 🌻 Tenha um ótimo dia !!
-##
-<!--
-**LuanaSantosNascimento/LuanaSantosNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Domine&size=45&pause=1000&color=7FFFD4&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Luana+!;I'm+19+years+old.;I'm+brazilian.;And+I'm+starting+a+career+in+technology.;I%E2%80%99m+currently+working+with+Kotlin+and+Java.;Be+welcome+!!)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/LuanaSantosNascimento">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LuanaSantosNascimento&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaSantosNascimento&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuanaSantosNascimento&show_icons=true&count_private=true&hide_border=true&title_color=20B2AA&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Luana Nascimento github stats"/>
+  <img width="41%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaSantosNascimento&layout=compact&hide_border=true&title_color=20B2AA&text_color=ff91a4&bg_color=0d1117"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Docker" title="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="right" alt="Kubernetes" title="Kubernetes" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img align="right" alt="Spring-Boot" title="Spring-Boot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="right" alt="Java" title="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="right" alt="Kotlin" title="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LuanaSantosNascimento&bg_color=0d1117&color=20b2aa&line=c9d1d9&point=ff91a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-                  
-          
-<!--  
-  <img align="right" alt="HTML" title="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="CSS" title="CSS"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="MySql" title="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
- -->
+##
+
+## Main skills:
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
+
+## Studying in this moment:
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+
+<div style="display: inline_block"><br>
   <img align="left" alt="Hey" tile="Hey" height="130" src="img/hey.gif">
 </div>
   
   ##
   ##
+	
+<div align="center">
+  <img  width="100%" height="100%"  src="https://github.com/LuanaSantosNascimento/LuanaSantosNascimento/blob/output/github-contribution-grid-snake.svg"/>
+</div>
   
-  ![Snake animation](https://github.com/LuanaSantosNascimento/LuanaSantosNascimento/blob/output/github-contribution-grid-snake.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer"/>
