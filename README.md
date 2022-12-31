@@ -12,12 +12,12 @@
 
 ##
 
-## Main skills:
+### Main skills:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 ![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
 
-## Studying in this moment:
+### Studying in this moment:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -27,7 +27,6 @@
   <img align="left" alt="Hey" tile="Hey" height="130" src="img/hey.gif">
 </div>
   
-  ##
   ##
 	
 <div align="center">
