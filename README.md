@@ -28,9 +28,9 @@
 </div>
   
   ##
-	
+<!--	
 <div align="center">
   <img  width="100%" src="https://github.com/LuanaSantosNascimento/LuanaSantosNascimento/blob/output/github-contribution-grid-snake.svg"/>
-</div>
+</div> -->
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer"/>
